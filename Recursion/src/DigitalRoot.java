@@ -23,3 +23,20 @@ public class DigitalRoot
         System.out.println(digitalRoot(n));
     }
 }
+
+
+//Recursive
+
+//class Solution
+//{
+//    // complete the function
+//    public static int digitalRoot(int n)
+//    {
+//        // add your code here
+//        if(n<10)
+//            return n;
+//        int count = n%10+digitalRoot(n/10);
+//        return digitalRoot(count);
+//
+//    }
+//}
