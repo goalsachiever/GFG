@@ -21,6 +21,6 @@ public class JosephusProblem
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int k = sc.nextInt();
-        myJos(n,k);
+        System.out.println(myJos(n,k));
     }
 }
