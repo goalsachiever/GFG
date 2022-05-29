@@ -37,8 +37,5 @@ public class getSumInArrayRange
         System.out.println(getSumArray(arr,0 , 2));
         System.out.println(getSumArray(arr,2 , 2));
         System.out.println(getSumArray(arr,2 , 4));
-
-
-
     }
 }
